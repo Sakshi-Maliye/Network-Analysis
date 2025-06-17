@@ -1,0 +1,11 @@
+Data Breach Analysis Report
+Generated: 2025-06-17 09:52:29.626966
+==================================================
+
+
+Analysis Summary
+==================================================
+Total Packets Analyzed: 84
+Suspicious Packets Found: 0
+HTTP Credentials Detected: 0
+FTP Credentials Detected: 0
